@@ -1,0 +1,10 @@
+# SSH private key
+ansible/my-key.pem
+
+# Downloaded Minikube binary
+ansible/minikube-linux-amd64
+
+# Terraform files
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
